@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackDojo", "StackDojo\StackDojo.csproj", "{20BED682-4B04-45D4-8544-BD2FF1D058C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackDojoTests", "StackDojoTests\StackDojoTests.csproj", "{12218C5D-F3B1-48C0-AC5D-D740F8393223}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{20BED682-4B04-45D4-8544-BD2FF1D058C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20BED682-4B04-45D4-8544-BD2FF1D058C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20BED682-4B04-45D4-8544-BD2FF1D058C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12218C5D-F3B1-48C0-AC5D-D740F8393223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12218C5D-F3B1-48C0-AC5D-D740F8393223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12218C5D-F3B1-48C0-AC5D-D740F8393223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12218C5D-F3B1-48C0-AC5D-D740F8393223}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
